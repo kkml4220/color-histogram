@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py input/sample_background.png
+python color_histogram.py input/sample_background.png
 ```
 
 ## Author
